@@ -23,4 +23,4 @@ def caching_fibonacci ():
 # Приклад використання
 fib = caching_fibonacci()
 print(fib(10))  
-print(fib(15)) 
+print(fib(20)) 
